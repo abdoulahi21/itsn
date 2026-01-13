@@ -26,9 +26,9 @@ export function Header() {
         <div className="flex items-center justify-between h-16 lg:h-20">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2">
-            <img src="/logo.png" alt="Logo" className="w-22 h-20 object-contain" />
+            <img src="/itsn-logo.png" alt="Logo" className="w-22 h-20 object-contain" />
             <span className="text-xl font-bold text-primary">
-              ALD <span className="text-secondary">TECH</span>
+              IT <span className="text-secondary">SN</span>
             </span>
           </Link>
 
