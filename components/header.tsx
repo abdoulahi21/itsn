@@ -26,10 +26,7 @@ export function Header() {
         <div className="flex items-center justify-between h-16 lg:h-20">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2">
-            <img src="/itsn-logo.png" alt="Logo" className="w-22 h-20 object-contain" />
-            <span className="text-xl font-bold text-primary">
-              IT <span className="text-secondary">SN</span>
-            </span>
+            <img src="/itsn-logo.png" alt="Logo" className="w-50 h-50 mt-9 object-contain" />
           </Link>
 
           {/* Desktop Navigation */}

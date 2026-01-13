@@ -72,7 +72,7 @@ export function Hero() {
           <div className="relative">
             <div className="relative z-10 rounded-2xl overflow-hidden shadow-2xl">
               <img
-                src="/developer-at-desk-with-multiple-monitors-showing-u.jpg"
+                src="/image-acc.jpg"
                 alt="Développeur au travail avec interfaces UI/UX"
                 className="w-full h-auto"
               />

@@ -52,11 +52,8 @@ export function Footer() {
           <div className="lg:col-span-2">
             <Link href="/" className="flex items-center gap-2 mb-4">
 
-                <img src="/logo.png" alt="Logo" className="w-22 h-20 object-contain" />
+              <img src="/itsn-logo.png" alt="Logo" className="w-30 h-30  object-contain" />
 
-              <span className="text-xl font-bold">
-                ALD <span className="text-accent">TECH</span>
-              </span>
             </Link>
             <p className="text-primary-foreground/70 mb-6 max-w-sm">{t.footer.description}</p>
             {/* Social Links */}
